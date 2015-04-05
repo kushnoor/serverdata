@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">ServerData</string>
+
+    <string name="app_welcome">Data Fetched From Server </string>
+    <string name="action_settings">Settings</string>
+    <string name="user_id" >ID: </string>
+    <string name="user_name">UserName: </string>
+    <string name="user_email">Email: </string>
+</resources>
